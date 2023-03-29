@@ -1,45 +1,36 @@
 ---
-title: "Values"
+title: "Our Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Empowering Personal Growth"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      We believe in the untapped potential hidden within each individual.
+      Our mission is to provide you with the knowledge and inspiration to unlock your inner
+      strength and become the best version of yourself. We're committed to promoting a growth
+      mindset that encourages continuous learning and self-improvement.
+    imageUrl: "/img/about-personal-growth.jpg"
+  - heading: "Diverse Selection of Books"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      We offer a carefully curated selection of books that cover a wide range of topics,
+      from accounting and business to self-help and children's books. Reading can ignite curiosity
+      and help you conquer your goals, no matter what stage of life you're in.
+    imageUrl: "/img/about-books.jpg"
+  - heading: "Building a Community"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      We're committed to creating a community of readers who are dedicated to lifelong learning and
+      personal growth. Join us in our mission to better ourselves for the benefit of all. Sign up
+      for our newsletter to stay updated on new releases, promotions, and exclusive content.
+    imageUrl: "/img/about-community.jpg"
+  - heading: "Nurturing Passions"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      We believe in the transformative power of knowledge and the importance of nurturing our passions.
+      Our extensive collection of books can help you unearth your hidden talents and explore new interests.
+      Dive into our selection and discover where your curiosity can lead you.
+    imageUrl: "/img/about-passions.jpg"
+  - heading: "Connecting with Inspiring Voices"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Our authors are the driving force behind our mission. From accomplished experts to emerging voices,
+      we bring together a diverse group of writers who share our vision for personal growth and collective
+      betterment. Find inspiration in their stories, and let their wisdom guide you on your path.
+    imageUrl: "/img/about-inspiring-voices.jpg"
 ---
